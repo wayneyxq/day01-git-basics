@@ -8,3 +8,6 @@
 - `git status`：查看仓库状态
 - `git add`：把改动加入暂存区
 - `git commit`：把暂存区的内容提交到仓库历史
+## 学习心得
+
+第一次把代码推送到 GitHub 成功啦！记住：先 add，再 commit，最后 push。
